@@ -1,0 +1,21 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/bin": true,
+        "**/obj": true,
+        "node_modules": true,
+        ".cache": true,
+        ".settings": true,
+        ".classpath": true,
+        ".project": true
+    },
+    "search.exclude": {
+        "node_modules": true,
+        "dist": true,
+        "build": true
+    }
+}
